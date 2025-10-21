@@ -74,5 +74,5 @@ body{
     padding:2rem 1rem;
     background:var(--c2);
 }
-.content{ flex:1; padding:2rem; }
+.content{ flex:1; padding:2rem; text-align: center;}
 .footer{ background:var(--c3); text-align:center; padding:1rem; }
